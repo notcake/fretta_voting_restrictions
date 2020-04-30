@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Fretta Voting Restrictions"
+	"version"			"1.0"
+	"up_date"			""
+	"author_name"			"!cake"
+	"author_email"			""
+	"author_url"			""
+	"info"				"May need updating when Garry updates fretta"
+}
